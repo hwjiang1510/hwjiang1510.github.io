@@ -4,5 +4,5 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Email: jiahaowang616 at gmail.com
+Email: hwjiang1510 at gmail.com
 

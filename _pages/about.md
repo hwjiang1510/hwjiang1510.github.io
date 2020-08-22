@@ -29,7 +29,7 @@ Computer Science, CSST Program, GPA: 4.0/4.0 <br>
 Advisor: [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/) <br>
 
 * <img width="75" height="75" src="https://jiangolder.github.io/images/whu.png"/> <br>
-<b>Wuhan University (Wuhan, China)</b> <br>
+<b>Wuhan University </b> <br>
 Sep. 2015--Jun. 2019<br>
 Bachelor in Measuring & Controlling Technology and Instrumentations, GPA: 3.8/4.0 <br>
 Advisor: [Prof. Qin Zou](https://sites.google.com/site/qinzoucn/).
@@ -38,7 +38,7 @@ Advisor: [Prof. Qin Zou](https://sites.google.com/site/qinzoucn/).
 * <img width="75" height="75" src="https://jiangolder.github.io/images/megvii.jpg"/> <br>
 <b>MEGVII Face++ (Beijing, China) </b> <br>
 Research Intern, Advisor: Gang Yu (Jan. 2019--May. 2019)<br>
-Building lane detection and road segmentation tools for urban driving scenes<br>
+Building lane detection and road segmentation algorithms for urban auto-driving<br>
 
 * <img width="75" height="75" src="https://jiangolder.github.io/images/UCLA3.png"/> <br>
 <b>University of California, Los Angeles (Los Angeles, CA) </b> <br>

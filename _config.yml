@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiahao Wang"
+title                    : "Hanwen Jiang"
 title_separator          : "-"
-name                     : &name "Jiahao Wang"
-description              : &description "Candidate for Bachelor, EE, Wuhan University."
-url                      : https://JiahaoPlus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Hanwen Jiang"
+description              : &description "M.S. in CSE @ UCSD"
+url                      : https://Jiangolder.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JiahaoPlus/JiahaoPlus.github.io"
+repository               : "Jiangolder/Jiangolder.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiahao Wang"
+  name             : "Hanwen Jiang (江翰文)"
   avatar           : "bio-photo-0.jpg"
-  bio              : "Build intelligent machine for human well-being."
-  location         : "Wuhan, China"
+  bio              : "CV, DL"
+  location         : "San Diego, U.S."
   employer         :
   googlescholar    :
-  email            : "jiahaowang616@gmail.com"
+  email            : "hwjiang1510@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JiahaoPlus"
+  github           : "Jiangolder"
   google_plus      :
   keybase          :
   instagram        :
