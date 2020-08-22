@@ -7,12 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* I am now a master student in [ETH Zurich](https://ethz.ch/en.html) majoring in Robotics, Systems and Control. My tutor is [Prof. Luc Van Gool](http://www.vision.ee.ethz.ch/en/members/detail/1/).
+* I am now a second-year master student at CSE Department, [UC San Diego](https://ucsd.edu/). 
+My advisor is [Prof. Xiaolong Wang](https://xiaolonw.github.io/).
 
-* I was a visiting research student in [CCVL](https://ccvl.jhu.edu/) group at Johns Hopkins University in 2019. I worked closely with [Prof. Alan Yuille](www.cs.jhu.edu/~ayuille/) and [Weichao Qiu](https://weichaoqiu.com/).
+* I received my B.E. from EE Department, [Wuhan University](http://en.whu.edu.cn/) in 2019, where I worked with [Prof. Qin Zou](https://sites.google.com/site/qinzoucn/).
 
-* I received my B.E. degree from [Wuhan University](http://en.whu.edu.cn/) in 2019 (majoring in EE, ranking <b>1</b>st).
-My undergraduate research advisor is [Prof. Jiayi Ma](https://sites.google.com/site/jiayima2013/).
+* I was a research intern at Detection Group, [MEGVII](https://megvii.com/en). I was also a research assistant at UCLA, worked with [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/).
+
+* I aim to build intelligent systems that can actively interact with the enviornment, with the ability of perception, reasoning and generalization. 
+My current research mainly focuses on understanding human-enviornment interactions.
+
+
 
 # Recent News
 * Dec 06, 2018. [A paper was accepted by *Signal Processing*](https://authors.elsevier.com/c/1YDGYbZX4vg-J)
