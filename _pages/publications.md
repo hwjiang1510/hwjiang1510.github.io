@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>Semi-Supervised 3D Hand-Object Poses Estimationwith Interactions in Time</b> <br>
+<b>Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time</b> <br>
 Shaowei Liu*, <b>Hanwen Jiang*</b>, Jiarui Xu, Sifei Liu, and Xiaolong Wang (<b>*<b> indicates equal contribution) <br>
 <i>under review</i>
 
