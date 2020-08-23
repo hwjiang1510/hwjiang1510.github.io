@@ -13,7 +13,7 @@ My advisor is [Prof. Xiaolong Wang](https://xiaolonw.github.io/).
 * My research interest is building intelligent systems that can actively interact with the enviornment, with the ability of perception, reasoning and generalization. 
 My current research mainly focuses on understanding human-enviornment interactions.
 
-* I am also a amateur Chinese Calligrapher, you can find my previous graduation exhibition [here](https://mp.weixin.qq.com/s/7ERydW3i3iGsVcMOR13nzQ).
+* I am also an amateur Chinese Calligrapher, you can find my previous graduation exhibition [here](https://mp.weixin.qq.com/s/7ERydW3i3iGsVcMOR13nzQ).
 
 
 # Education

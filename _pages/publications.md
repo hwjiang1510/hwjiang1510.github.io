@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <b>Semi-Supervised 3D Hand-Object Poses Estimationwith Interactions in Time</b> <br>
-Shaowei Liu*, <b>Hanwen Jiang*</b>, Jiarui Xu, Sifei Liu, and Xiaolong Wang (* equal contribution)<br>
+Shaowei Liu**, <b>Hanwen Jiang**</b>, Jiarui Xu, Sifei Liu, and Xiaolong Wang (* indicates equal contribution)<br>
 <i>under review</i>
 
 <b>[Robust Lane Detection from Continuous Driving Scenes Using Deep Neural Networks](https://arxiv.org/pdf/1903.02193.pdf)</b> <br>
