@@ -25,8 +25,9 @@ Computer Science, CSST Program, GPA: 4.0/4.0 <br>
 Advisor: [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/) <br>
 
 * <b>Wuhan University </b>, Sep. 2015--Jun. 2019<br>
-Bachelor in Measuring & Controlling Technology and Instrumentations, GPA: 3.8/4.0 <br>
+Bachelor in Measuring & Controlling Technology and Instrumentations, GPA: 3.8/4.0, <b>1<b>/46 <br>
 Advisor: [Prof. Qin Zou](https://sites.google.com/site/qinzoucn/).
+Awards: National Scholarship (2016 & 2017), Outsanding Graduation Thesis.
 
 # Experience
 * <b>MEGVII Face++ (Beijing, China) </b> <br>
