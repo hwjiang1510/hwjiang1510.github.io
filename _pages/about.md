@@ -13,7 +13,7 @@ My advisor is [Prof. Xiaolong Wang](https://xiaolonw.github.io/).
 * My research interest is building intelligent systems that can actively interact with the enviornment, with the ability of perception, reasoning and generalization. 
 My current research mainly focuses on understanding human-enviornment interactions.
 
-* I am also an amateur Chinese Calligrapher, you can find my previous graduation exhibition [here](https://mp.weixin.qq.com/s/7ERydW3i3iGsVcMOR13nzQ).
+* I am also an amateur Chinese Calligrapher, my previous graduation exhibition is [here](https://mp.weixin.qq.com/s/7ERydW3i3iGsVcMOR13nzQ).
 
 
 # Education
@@ -31,8 +31,8 @@ Awards: National Scholarship (2016 & 2017), Outsanding Graduation Thesis
 
 # Experience
 * <b>MEGVII Face++ (Beijing, China) </b> <br>
-Research Intern, Advisor: Gang Yu (Jan. 2019--May. 2019)<br>
-Building lane detection and road segmentation algorithms for urban auto-driving<br>
+Research Intern, Advisor: [Dr. Gang Yu](http://www.skicyyu.org/) (Jan. 2019--May. 2019)<br>
+Building lane and road segmentation algorithms for urban auto-driving<br>
 
 * <b>University of California, Los Angeles (Los Angeles, CA) </b> <br>
 Research Assistant, Advisor: Prof. Kai-Wei Chang (Jul. 2018--Sep. 2018)<br>

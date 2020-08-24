@@ -7,5 +7,5 @@ author_profile: true
 
 <b>Email<b>: hwjiang1510 at gmail.com <br>
 
-<b>Location<b>: Atkinson Hall 5202, UC San Diego
+<b>Office<b>: Atkinson Hall 5202, UC San Diego
 
