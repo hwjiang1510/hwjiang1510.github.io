@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+(* equal contribution)
+
 <b>Hand-Object Contact Consistency Reasoning for Human Grasps Generation</b> <br>
 <b>Hanwen Jiang</b>, Shaowei Liu, Jiashun Wang, Xiaolong Wang<br>
 <i>under review</i>
