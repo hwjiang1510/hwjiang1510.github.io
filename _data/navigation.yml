@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Projects"
-    url: /projects/
+#  - title: "Projects"
+#    url: /projects/
 
   # - title: "Awards & Honors"
   #   url: /awards/
@@ -24,8 +24,8 @@ main:
   #- title: "Blogs"
   #  url: /year-archive/
     
-  - title: "Contact"
-    url: /contact/  
+#  - title: "Contact"
+#    url: /contact/  
     
   # - title: "Guide"
     # url: /markdown/
