@@ -20,7 +20,7 @@ My current research mainly focuses on understanding human-environment interactio
 * <dl><dt><img align="left" width="80" height="80" hspace="10" src="https://jiangolder.github.io/images/UCSD.png"/></dt>
 <dt>University of California, San Diego</dt>
 <dd>Sep. 2019 - Now</dd>
-<dd>M.S. in Computer Science and Engineering. GPA: <strong>4.0<strong> /4.0.</dd>
+<dd>M.S. in Computer Science and Engineering. GPA: <strong>4.0</strong> /4.0.</dd>
 <dd>Advisor: [Prof. Xiaolong Wang](https://xiaolonw.github.io/) </dd>
 
 * <dl><dt><img align="left" width="80" height="80" hspace="10" src="https://jiangolder.github.io/images/UCLA.jpg"/></dt>
@@ -32,8 +32,9 @@ My current research mainly focuses on understanding human-environment interactio
 * <dl><dt><img align="left" width="80" height="80" hspace="10" src="https://jiangolder.github.io/images/whu.png"/></dt>
 <dt>Wuhan University</dt>
 <dd>Sep. 2015 - Jun. 2019</dd>
-<dd>B.E. in Measure & Control Technology. GPA: <strong>3.81<strong> /4.0, rank: <strong>1st<strong> / 46.</dd>
+<dd>B.E. in Measure & Control Technology. GPA: <strong>3.81</strong> /4.0, rank: <strong>1st</strong> / 46.</dd>
 <dd>Advisor: [Prof. Qin Zou](https://sites.google.com/site/qinzoucn/) </dd>
+
 
 # Intern Experience
 * <dl><dt><img align="left" width="80" height="80" hspace="10" src="https://jiangolder.github.io/images/megvii.jpg"/></dt>
