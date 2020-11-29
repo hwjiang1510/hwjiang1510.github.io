@@ -20,26 +20,26 @@ My current research mainly focuses on understanding human-environment interactio
 * <dl><dt><img align="left" width="80" height="80" hspace="10" src="https://jiangolder.github.io/images/UCSD.png"/></dt>
 <dt>University of California, San Diego</dt>
 <dd>Sep. 2019 - Now</dd>
-<dd>M.S. in Computer Science and Engineering. GPA: <strong>4.0<strong>/4.0.</dd>
-<dd>Advisor: [Prof. Xiaolong Wang](https://xiaolonw.github.io/)</dd>
+<dd>M.S. in Computer Science and Engineering. GPA: <strong>4.0<strong> /4.0.</dd>
+<dd>Advisor: [Prof. Xiaolong Wang](https://xiaolonw.github.io/) </dd>
 
 * <dl><dt><img align="left" width="80" height="80" hspace="10" src="https://jiangolder.github.io/images/UCLA.jpg"/></dt>
 <dt>University of California, Los Angeles</dt>
 <dd>Jul. 2018 - Sep. 2018</dd>
 <dd>Computer Science, CSST Program. GPA: 4.0/4.0.</dd>
-<dd>Advisor: [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/)</dd>
+<dd>Advisor: [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/) </dd>
 
 * <dl><dt><img align="left" width="80" height="80" hspace="10" src="https://jiangolder.github.io/images/whu.png"/></dt>
 <dt>Wuhan University</dt>
 <dd>Sep. 2015 - Jun. 2019</dd>
-<dd>B.E. in Measure & Control Technology. GPA: <strong>4.0<strong>/4.0.</dd>
-<dd>Advisor: [Prof. Qin Zou](https://sites.google.com/site/qinzoucn/)</dd>
+<dd>B.E. in Measure & Control Technology. GPA: <strong>3.81<strong> /4.0, rank: <strong>1st<strong> / 46.</dd>
+<dd>Advisor: [Prof. Qin Zou](https://sites.google.com/site/qinzoucn/) </dd>
 
 # Intern Experience
 * <dl><dt><img align="left" width="80" height="80" hspace="10" src="https://jiangolder.github.io/images/megvii.jpg"/></dt>
 <dt>Detection Group, MEGVII Face++, Beijing, China</dt>
 <dd>Jan. 2019--May. 2019</dd>
-<dd>Research Intern. Advisor: [Dr. Gang Yu](http://www.skicyyu.org/).</dd>
+<dd>Research Intern. Advisor: [Dr. Gang Yu](http://www.skicyyu.org/) </dd>
 <dd>Building lane and road segmentation algorithms for urban auto-driving</dd>
 
 
