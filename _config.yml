@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Hanwen Jiang    江翰文"
   avatar           : "bio-photo-0.jpg"
-  bio              : "CV, DL"
+  bio              : "MS student@UCSD"
   location         : "San Diego, U.S."
   employer         :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=HJHSuxUAAAAJ&hl=zh-CN&authuser=1"
   email            : "hwjiang1510@gmail.com"
   uri              :
   bitbucket        :

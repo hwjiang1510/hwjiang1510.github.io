@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<b>Hand-Object Contact Consistency Reasoning for Human Grasps Generation</b> <br>
+<b>Hanwen Jiang</b>, Shaowei Liu, Jiashun Wang, Xiaolong Wang<br>
+<i>under review</i>
 
 <b>Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time</b> <br>
 Shaowei Liu*, <b>Hanwen Jiang*</b>, Jiarui Xu, Sifei Liu, and Xiaolong Wang <br>
