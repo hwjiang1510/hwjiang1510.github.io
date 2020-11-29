@@ -11,6 +11,7 @@ title                    : "Hanwen Jiang"
 title_separator          : "-"
 name                     : &name "Hanwen Jiang"
 description              : &description "M.S. in CSE @ UCSD"
+description              : [CV]("https://Jiangolder.github.io/files/CV_hw.pdf")
 url                      : https://Jiangolder.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jiangolder/Jiangolder.github.io"
