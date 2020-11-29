@@ -19,10 +19,7 @@ My current research mainly focuses on understanding human-environment interactio
 
 
 # Education
-* <dl><dt><img align="left" width="80" height="80" hspace="10" src="https://jiangolder.github.io/images/UCSD.png"/></dt>
-<dt>University of California, San Diego</dt>
-Sep. 2019 - Now<br>
-M.S. in Computer Science and Engineering. GPA: <strong>4.0</strong> /4.0.<br>
+* <dl><dt><img align="left" width="80" height="80" hspace="10" src="https://jiangolder.github.io/images/UCSD.png"/></dt><dt>University of California, San Diego</dt><dd>Sep. 2019 - Now</dd><dd>M.S. in Computer Science and Engineering. GPA: <strong>4.0</strong> /4.0.</dd>
 
 * <dl><dt><img align="left" width="80" height="80" hspace="10" src="https://jiangolder.github.io/images/UCLA.jpg"/></dt>
 <dt>University of California, Los Angeles</dt>
@@ -37,8 +34,8 @@ M.S. in Computer Science and Engineering. GPA: <strong>4.0</strong> /4.0.<br>
 
 # Intern Experience
 * <dl><dt><img align="left" width="80" height="80" hspace="10" src="https://jiangolder.github.io/images/megvii.jpg"/></dt>
-<dt>Research Intern. Detection Group, MEGVII Face++, Beijing, China</dt>
+<dt>Detection Group, MEGVII Face++, Beijing, China</dt>
 <dd>Jan. 2019--May. 2019</dd>
-<dd>Building lane and road segmentation algorithms for urban auto-driving</dd>
+<dd>Research Intern: Building lane and road segmentation algorithms for urban auto-driving</dd>
 
 
