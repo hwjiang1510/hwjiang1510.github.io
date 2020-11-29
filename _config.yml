@@ -11,7 +11,6 @@ title                    : "Hanwen Jiang"
 title_separator          : "-"
 name                     : &name "Hanwen Jiang"
 description              : &description "M.S. in CSE @ UCSD"
-description              : [CV]("https://Jiangolder.github.io/files/CV_hw.pdf")
 url                      : https://Jiangolder.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jiangolder/Jiangolder.github.io"
@@ -84,6 +83,7 @@ author:
   name             : "Hanwen Jiang    江翰文"
   avatar           : "bio-photo-0.jpg"
   bio              : "M.S. student@UCSD, interested in CV/DL/Robotics"
+  cv               : "https://Jiangolder.github.io/files/CV_hw.pdf"
   location         : "Atkinson Hall 5202, UCSD, U.S."
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=HJHSuxUAAAAJ&hl=zh-CN&authuser=1"
