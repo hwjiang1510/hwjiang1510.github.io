@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* I am now a second-year master student at CSE Department, [UC San Diego](https://ucsd.edu/). 
+* I am a 2nd year master student at CSE Department, [UC San Diego](https://ucsd.edu/). 
 My advisor is [Prof. Xiaolong Wang](https://xiaolonw.github.io/).
 
 * My research interest is building intelligent systems that can actively interact with the environment, with the ability of perception, reasoning and generalization. 
@@ -17,6 +17,14 @@ My current research mainly focuses on understanding human-environment interactio
 
 
 # Education
+* <dl><dt><img align="left" width="80" height="80" hspace="10" src="https://jiangolder.github.io/images/ucsd.png"/> </dt>
+University of California, San Diego</dt>
+<dd>Sep. 2019 - Now</dd>
+<dd>M.S. in Computer Science and Engineering.</dd>
+<dd>GPA: 92.7, <strong>rank 1/86</strong>.</dd>
+
+
+
 <b>University of California, San Diego </b>, Sep. 2019--Present<br>
 Master of Science in Computer Science and Engineering, GPA: 4.0/4.0 <br>
 
