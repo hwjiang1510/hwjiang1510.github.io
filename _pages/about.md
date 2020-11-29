@@ -13,6 +13,8 @@ My advisor is [Prof. Xiaolong Wang](https://xiaolonw.github.io/).
 * My research interest is building intelligent systems that can actively interact with the environment, with the ability of perception, reasoning and generalization. 
 My current research mainly focuses on understanding human-environment interactions.
 
+* I recieved a B.E. degree from [Wuhan University](http://en.whu.edu.cn/), supervised by [Prof. Qin Zou](https://sites.google.com/site/qinzoucn/). I was a visiting student in UCLA, worked closely with [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/).
+
 * I am also an amateur Chinese Calligrapher, my previous graduation exhibition is [here](https://mp.weixin.qq.com/s/7ERydW3i3iGsVcMOR13nzQ).
 
 
@@ -21,26 +23,22 @@ My current research mainly focuses on understanding human-environment interactio
 <dt>University of California, San Diego</dt>
 <dd>Sep. 2019 - Now</dd>
 <dd>M.S. in Computer Science and Engineering. GPA: <strong>4.0</strong> /4.0.</dd>
-<dd>Advisor: [Prof. Xiaolong Wang](https://xiaolonw.github.io/) </dd>
 
 * <dl><dt><img align="left" width="100" height="100" hspace="10" src="https://jiangolder.github.io/images/UCLA.jpg"/></dt>
 <dt>University of California, Los Angeles</dt>
 <dd>Jul. 2018 - Sep. 2018</dd>
 <dd>Computer Science, CSST Program. GPA: 4.0/4.0.</dd>
-<dd>Advisor: [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/) </dd>
 
 * <dl><dt><img align="left" width="100" height="100" hspace="10" src="https://jiangolder.github.io/images/whu.png"/></dt>
 <dt>Wuhan University</dt>
 <dd>Sep. 2015 - Jun. 2019</dd>
 <dd>B.E. in Measure & Control Technology. GPA: <strong>3.81</strong> /4.0, rank: <strong>1st</strong> / 46.</dd>
-<dd>Advisor: [Prof. Qin Zou](https://sites.google.com/site/qinzoucn/) </dd>
 
 
 # Intern Experience
 * <dl><dt><img align="left" width="100" height="100" hspace="10" src="https://jiangolder.github.io/images/megvii.jpg"/></dt>
-<dt>Detection Group, MEGVII Face++, Beijing, China</dt>
+<dt>Research Intern. Detection Group, MEGVII Face++, Beijing, China</dt>
 <dd>Jan. 2019--May. 2019</dd>
-<dd>Research Intern. Advisor: [Dr. Gang Yu](http://www.skicyyu.org/) </dd>
 <dd>Building lane and road segmentation algorithms for urban auto-driving</dd>
 
 
