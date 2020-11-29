@@ -17,12 +17,11 @@ My current research mainly focuses on understanding human-environment interactio
 
 
 # Education
-* <dl><dt><img align="left" width="80" height="80" hspace="10" src="https://jiangolder.github.io/images/ucsd.png"/> </dt>
+* <dl><dt><img align="left" width="80" height="80" hspace="10" src="https://jiangolder.github.io/images/UCSD.png"/></dt>
 University of California, San Diego</dt>
 <dd>Sep. 2019 - Now</dd>
 <dd>M.S. in Computer Science and Engineering.</dd>
 <dd>GPA: 92.7, <strong>rank 1/86</strong>.</dd>
-
 
 
 <b>University of California, San Diego </b>, Sep. 2019--Present<br>
