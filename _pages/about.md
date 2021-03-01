@@ -16,7 +16,7 @@ My current research mainly focuses on understanding human-environment interactio
 I am also an amateur Chinese Calligrapher, my previous graduation exhibition is [here](https://mp.weixin.qq.com/s/7ERydW3i3iGsVcMOR13nzQ).
 
 # News
-[2021.3.1] One paper was accpected by CVPR 2021.
+[2021.3.1] One paper was accpected by <dt>CVPR 2021</dt>.
 
 # Education
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="https://jiangolder.github.io/images/UCSD.png"/></dt><dt>University of California, San Diego</dt><dd>Sep. 2019 - Now</dd><dd>M.S. in Computer Science and Engineering. GPA: <strong>4.0</strong> /4.0.</dd><dd>Advisor: Prof. Xiaolong Wang</dd></dl>
