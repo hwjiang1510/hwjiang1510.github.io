@@ -7,15 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 2nd year master student at CSE Department, [UC San Diego](https://ucsd.edu/). 
-My advisor is [Prof. Xiaolong Wang](https://xiaolonw.github.io/).
-I recieved a B.E. degree from [Wuhan University](http://en.whu.edu.cn/), supervised by [Prof. Qin Zou](https://sites.google.com/site/qinzoucn/). I was a visiting student in UCLA, worked closely with [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/).
+I am a 2nd year master student at CSE Department, [UC San Diego](https://ucsd.edu/), advised by [Prof. Xiaolong Wang](https://xiaolonw.github.io/).
+I recieved a B.E. degree from [Wuhan University](http://en.whu.edu.cn/), supervised by [Prof. Qin Zou](https://sites.google.com/site/qinzoucn/). I was a visiting student in UCLA, worked with [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/).
 
-My research interest is building intelligent systems that can actively interact with the environment, with the ability of perception, reasoning and generalization. 
-My current research mainly focuses on understanding human-environment interactions.
+My research interest is building intelligent systems that can learn from limited supervision and can actively interact with the physical environment, with the ability of perception, reasoning and generalization. 
+My current research mainly focuses on understanding human-environment interactions, including topics on affordance reasoning, pose estimation and imitation learning.
 
 I am also an amateur Chinese Calligrapher, my previous graduation exhibition is [here](https://mp.weixin.qq.com/s/7ERydW3i3iGsVcMOR13nzQ).
 
+# News
+[2021.3.1] One paper was accpected by CVPR 2021.
 
 # Education
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="https://jiangolder.github.io/images/UCSD.png"/></dt><dt>University of California, San Diego</dt><dd>Sep. 2019 - Now</dd><dd>M.S. in Computer Science and Engineering. GPA: <strong>4.0</strong> /4.0.</dd><dd>Advisor: Prof. Xiaolong Wang</dd></dl>
