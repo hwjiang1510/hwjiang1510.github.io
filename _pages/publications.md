@@ -6,17 +6,10 @@ author_profile: true
 ---
 (* equal contribution)
 
-<b>Hand-Object Contact Consistency Reasoning for Human Grasps Generation</b> <br>
-<b>Hanwen Jiang*</b>, Shaowei Liu*, Jiashun Wang, Xiaolong Wang<br>
-<i>under review</i>
+<dl><dt><img align="left" width="170" height="160" hspace="10" src="https://jiangolder.github.io/images/ho2021.gif" /></dt><dt> Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time</dt><dd>Shaowei Liu*, <strong>Hanwen Jiang*</strong>, Jiarui Xu, Sifei Liu, Xiaolong Wang</dd><dd>Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2021 <span style="color:blue"></span></dd><dd> Paper & code to be released</dd></dl>
 
-<b>Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time</b> <br>
-Shaowei Liu*, <b>Hanwen Jiang*</b>, Jiarui Xu, Sifei Liu, and Xiaolong Wang <br>
-<i>CPVR 2021</i>
+<dl><dt><img align="left" width="170" height="160" hspace="10" src="https://jiangolder.github.io/images/affordance2021.gif" /></dt><dt> Hand-Object Contact Consistency Reasoning for Human Grasps Generation</dt><dd><strong>Hanwen Jiang*</strong>, Shaowei Liu*, Jiashun Wang, Xiaolong Wang</dd><dd>under review, 2021 <span style="color:blue"></span></dd><dd> Paper & code to be released</dd></dl>
 
-<b>[Robust Lane Detection from Continuous Driving Scenes Using Deep Neural Networks](https://arxiv.org/pdf/1903.02193.pdf)</b> <br>
-Qin Zou, <b>Hanwen Jiang</b>, Qiyu Dai, Yuanhao Yue, Long Chen, and Qian Wang<br>
-<i>IEEE Transactions on Vehicular Technology, 69 (1), 41-54, 2019.</i>
-
+<dl><dt><img align="left" width="170" height="160" hspace="10" src="https://jiangolder.github.io/images/lanedetection.png" /></dt><dt> Robust Lane Detection from Continuous Driving Scenes Using Deep Neural Networks</dt><dd>Qin Zou, <strong>Hanwen Jiang*</strong>, Qiyu Dai, Yuanhao Yue, Long Chen, Qian Wang</dd><dd>IEEE Transactions on Vehicular Technology (<strong>IEEE TVT</strong>), 2020 <span style="color:blue"></span></dd><dd> <a href="https://github.com/qinnzou/Robust-Lane-Detection">[Code]</a>, <a href="https://arxiv.org/pdf/1903.02193.pdf">[Paper]</a></dd></dl>
 
 
