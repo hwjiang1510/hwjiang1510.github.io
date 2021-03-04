@@ -16,7 +16,7 @@ My current research mainly focuses on understanding human-environment interactio
 I am also an amateur Chinese Calligrapher, my previous graduation exhibition is [here](https://mp.weixin.qq.com/s/7ERydW3i3iGsVcMOR13nzQ).
 
 # News
-[2021.03] I will be a research intern at [Wormpex AI Research](https://research.wormpex.com/).
+[2021.03] I will be a research intern at [Wormpex AI Research](https://research.wormpex.com/) this summer.
 [2021.03] One paper accpected by <strong>CVPR 2021</strong>.
 
 # Education
