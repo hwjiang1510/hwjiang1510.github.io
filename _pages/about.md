@@ -14,8 +14,9 @@ My research interest is building intelligent systems that can learn from limited
 My current research mainly focuses on understanding human-environment interactions, including topics on affordance reasoning, pose estimation and imitation learning.
 
 # Recent News
-* [Mar 03, 2021] I will be a research intern at [Wormpex AI Research](https://research.wormpex.com/) this summer.
-* [Feb 28, 2021] One paper accpected by CVPR 2021.
+* I will pursue my Ph.D. at UT Austin.
+* [Mar, 2021] I will be a research intern at [Wormpex AI Research](https://research.wormpex.com/) this summer.
+* [Feb, 2021] One paper accpected by CVPR 2021.
 
 # Education
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/UCSD.png"/></dt><dt>University of California, San Diego</dt><dd>Sep. 2019 - Now</dd><dd>M.S. in Computer Science and Engineering. GPA: <strong>3.94</strong> /4.0.</dd><dd>Advisor: Prof. Xiaolong Wang</dd></dl>
