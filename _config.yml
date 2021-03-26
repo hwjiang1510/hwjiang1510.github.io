@@ -11,7 +11,7 @@ title                    : "Hanwen Jiang"
 title_separator          : "-"
 name                     : &name "Hanwen Jiang"
 description              : &description "M.S. in CSE @ UCSD"
-url                      : https://hwjiang1510.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hwjiang1510.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hwjiang1510/hwjiang1510.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,7 +83,7 @@ author:
   name             : "Hanwen Jiang    江翰文"
   avatar           : "bio-photo-0.jpg"
   bio              : "M.S. student@UCSD, interested in CV/DL/Robotics"
-  cv               : "https://hwjiang1510.github.io/files/CV_hw.pdf"
+  cv               : "./files/CV_hw.pdf"
   location         : "Atkinson Hall 5202, UCSD, U.S."
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=HJHSuxUAAAAJ&hl=zh-CN&authuser=1"
