@@ -23,7 +23,7 @@ My current research mainly focuses on understanding human-environment interactio
 
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/UCLA.jpg"/></dt><dt>University of California, Los Angeles</dt><dd>Jul. 2018 - Sep. 2018</dd><dd>Computer Science, CSST Program. GPA: 4.0/4.0.</dd><dd>Advisor: [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/)</dd></dl>
 
-<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/whu.png"/></dt><dt>Wuhan University</dt><dd>Sep. 2015 - Jun. 2019</dd><dd>B.E. in Measure & Control Technology. GPA: <strong>3.81</strong> /4.0, rank: <strong>1st</strong> / 46.</dd><dd>Advisor: Prof. Qin Zou</dd></dl>
+<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/whu.png"/></dt><dt>Wuhan University</dt><dd>Sep. 2015 - Jun. 2019</dd><dd>B.E. in Measure & Control Technology. GPA: <strong>3.81</strong> /4.0, rank: <strong>1st</strong> / 46.</dd><dd>Advisor: [Prof. Qin Zou](https://sites.google.com/site/qinzoucn/)</dd></dl>
 
 
 # Intern Experience
