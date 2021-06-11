@@ -19,7 +19,7 @@ My current research mainly focuses on understanding human-environment interactio
 * [Feb, 2021] One paper accpected by CVPR 2021.
 
 # Education
-<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/UCSD.png"/></dt><dt>University of California, San Diego</dt><dd>Sep. 2019 - Now</dd><dd>M.S. in Computer Science and Engineering. GPA: <strong>3.94</strong> /4.0.</dd><dd>Advisor: Prof. Xiaolong Wang</dd></dl>
+<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/UCSD.png"/></dt><dt>University of California, San Diego</dt><dd>Sep. 2019 - Mar. 2021</dd><dd>M.S. in Computer Science and Engineering. GPA: <strong>3.94</strong> /4.0.</dd><dd>Advisor: Prof. Xiaolong Wang</dd></dl>
 
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/UCLA.jpg"/></dt><dt>University of California, Los Angeles</dt><dd>Jul. 2018 - Sep. 2018</dd><dd>Computer Science, CSST Program. GPA: 4.0/4.0.</dd><dd>Advisor: Prof. Kai-Wei Chang</dd></dl>
 
