@@ -86,7 +86,7 @@ author:
   cv               : "./files/CV_hw.pdf"
   location         : "Atkinson Hall 5202, UCSD, U.S."
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=HJHSuxUAAAAJ&hl=zh-CN&authuser=1"
+  googlescholar    : "https://scholar.google.com.sg/citations?user=HJHSuxUAAAAJ&hl=en"
   email            : "hwjiang1510@gmail.com"
   uri              :
   bitbucket        :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/hanwenjiang1"
   vine             :
   weibo            :
   xing             :
