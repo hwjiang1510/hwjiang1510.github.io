@@ -15,6 +15,7 @@ My current research mainly focuses on understanding human-environment interactio
 
 # Recent News
 * I will pursue my Ph.D. at UT Austin.
+* [July, 2021] One paper accpected by ICCV 2021 as <span style="color:red">Oral</span>!
 * [Mar, 2021] I will be a research intern at [Wormpex AI Research](https://research.wormpex.com/) this summer.
 * [Feb, 2021] One paper accpected by CVPR 2021.
 
