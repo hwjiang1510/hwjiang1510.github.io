@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
+Last update: Dec. 2020.
+
 <embed src="https://hwjiang1510.github.io/files/CV_hw_1.pdf" width="650" height="1800" type='application/pdf'>
