@@ -11,7 +11,7 @@ I am an incoming Ph.D. student at Department of CS, [UT Austin](https://www.utex
 I received a M.S. in CS from [UCSD](https://ucsd.edu/), at where I worked with [Prof. Xiaolong Wang](https://xiaolonw.github.io/).
 
 My research interest is building embodied systems that can learn from limited supervision, and can actively interact with the physical environment, with the ability of perception, reasoning and generalization. 
-I am currently woring on understanding 3D vision and interactions, including topics on affordance reasoning, pose estimation and imitation learning.
+I am currently woring on 3D vision and interactions, including topics on affordance reasoning, pose estimation and imitation learning.
 
 # Recent News
 * [Jul, 2021] One [paper](https://arxiv.org/pdf/2104.03304.pdf) accpected by ICCV 2021 as <strong>Oral</strong>!
@@ -26,9 +26,9 @@ I am currently woring on understanding 3D vision and interactions, including top
 
 
 # Intern Experience
-<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/wrompex.jpg"/></dt><dt>Wormpex AI Research</dt><dd>May. 2021--Aug. 2021</dd><dd>Research Intern: Multiview human pose estimation</dd><dd>Mentors: Dr. Zhou Ren, Dr. Haoxiang Li, Dr. Gang Hua</dd></dl>
+<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/wormpex.jpg"/></dt><dt>Wormpex AI Research</dt><dd>May. 2021--Aug. 2021</dd><dd>Research Intern: Multiview human pose estimation</dd><dd>Mentors: Dr. Zhou Ren, Dr. Haoxiang Li, Dr. Gang Hua</dd></dl>
 
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/megvii.jpg"/></dt><dt>Detection Group, MEGVII Face++</dt><dd>Jan. 2019--May. 2019</dd><dd>Research Intern: Lane and road segmentation algorithms</dd><dd>Group Lead: Dr. Gang Yu</dd></dl>
 
 # Misc
-I am also an amateur Chinese Calligrapher, my previous graduation exhibition is [here](https://mp.weixin.qq.com/s/7ERydW3i3iGsVcMOR13nzQ).
+I am also an amateur Chinese Calligrapher, my previous undergrad graduation exhibition (2015, in Chinese) is [here](https://mp.weixin.qq.com/s/7ERydW3i3iGsVcMOR13nzQ).
