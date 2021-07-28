@@ -11,7 +11,7 @@ I am an incoming Ph.D. student at Department of CS, [UT Austin](https://www.utex
 I received a M.S. in CS from [UCSD](https://ucsd.edu/), at where I worked with [Prof. Xiaolong Wang](https://xiaolonw.github.io/).
 
 My research interest is building embodied systems that can learn from limited supervision, and can actively interact with the physical environment, with the ability of perception, reasoning and generalization. 
-I am currently woring on 3D vision and interactions, including topics on affordance reasoning, pose estimation and imitation learning.
+I am currently working on 3D vision and interactions, including topics on affordance reasoning, pose estimation and imitation learning.
 
 # Recent News
 * [Jul, 2021] One [paper](https://arxiv.org/pdf/2104.03304.pdf) accpected by ICCV 2021 as <strong>Oral</strong>!
