@@ -14,15 +14,15 @@ My research interest is building embodied systems that can learn from limited su
 I am currently working on 3D vision and interactions, including topics on affordance reasoning, pose estimation and imitation learning.
 
 # Recent News
-* [Jul, 2021] One [paper](https://arxiv.org/pdf/2104.03304.pdf) accpected by ICCV 2021 as <strong>Oral</strong>!
-* [Feb, 2021] One [paper](https://arxiv.org/pdf/2106.05266.pdf) accpected by CVPR 2021.
+* [Jul, 2021] One [paper](https://arxiv.org/pdf/2104.03304.pdf) accpected at ICCV 2021 as <strong>Oral</strong>!
+* [Feb, 2021] One [paper](https://arxiv.org/pdf/2106.05266.pdf) accpected at CVPR 2021.
 
 # Education
-<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/UCSD.png"/></dt><dt>University of California, San Diego</dt><dd>Sep. 2019 - Mar. 2021</dd><dd>M.S. in Computer Science and Engineering. GPA: <strong>3.94</strong> /4.0.</dd><dd>Advisor: Prof. Xiaolong Wang</dd></dl>
+<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/UCSD.png"/></dt><dt>University of California, San Diego</dt><dd>Sep. 2019 - Mar. 2021</dd><dd>M.S. in Computer Science and Engineering. GPA: 3.94/4.0.</dd><dd>Advisor: Prof. Xiaolong Wang</dd></dl>
 
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/UCLA.jpg"/></dt><dt>University of California, Los Angeles</dt><dd>Jul. 2018 - Sep. 2018</dd><dd>Computer Science, CSST Program. GPA: 4.0/4.0.</dd><dd>Advisor: Prof. Kai-Wei Chang</dd></dl>
 
-<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/whu.png"/></dt><dt>Wuhan University</dt><dd>Sep. 2015 - Jun. 2019</dd><dd>B.E. in Measure & Control Technology. GPA: <strong>3.81</strong> /4.0, rank: <strong>1st</strong> / 46.</dd><dd>Advisor: Prof. Qin Zou</dd></dl>
+<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/whu.png"/></dt><dt>Wuhan University</dt><dd>Sep. 2015 - Jun. 2019</dd><dd>B.E. in Measure & Control Technology. GPA: 3.81 /4.0, rank: 1st/ 46.</dd><dd>Advisor: Prof. Qin Zou</dd></dl>
 
 
 # Intern Experience
