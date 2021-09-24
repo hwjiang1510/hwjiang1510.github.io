@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an incoming Ph.D. student at Department of CS, [UT Austin](https://www.utexas.edu/), and I will work with [Prof. Kristen Grauman](https://www.cs.utexas.edu/users/grauman/). 
-I received a M.S. in CS from [UCSD](https://ucsd.edu/), at where I worked with [Prof. Xiaolong Wang](https://xiaolonw.github.io/).
+I am a Ph.D. student at UT Austin, advised by Prof. [Kristen Grauman](https://www.cs.utexas.edu/users/grauman/). 
+I received a M.S. in CS from UCSD, advised by Prof. [Xiaolong Wang](https://xiaolonw.github.io/).
 
 My research interest is building embodied systems that can learn from limited supervision, and can actively interact with the physical environment, with the ability of perception, reasoning and generalization. 
 I am currently working on 3D vision and interactions, including topics on affordance reasoning, pose estimation and imitation learning.
 
 # Recent News
-* [Jul, 2021] One [paper](https://arxiv.org/pdf/2104.03304.pdf) accpected at ICCV 2021 as <strong>Oral</strong>!
+* [Jul, 2021] One [paper](https://arxiv.org/pdf/2104.03304.pdf) accpected at ICCV 2021 as oral!
 * [Feb, 2021] One [paper](https://arxiv.org/pdf/2106.05266.pdf) accpected at CVPR 2021.
 
 # Education
