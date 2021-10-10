@@ -33,4 +33,5 @@ I am currently working on 3D vision and interactions, including topics on afford
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/megvii.jpg"/></dt><dt>Detection Group, MEGVII Face++</dt><dd>Jan. 2019--May. 2019</dd><dd>Research Intern: Lane and road segmentation algorithms</dd><dd>Group Lead: Dr. Gang Yu</dd></dl>
 
 # Misc
+I love cats, I have two lovely cats Luca and Soda, see them on [Instagram](https://www.instagram.com/meow_luca_soda/).
 I am also an amateur Chinese Calligrapher, my previous undergrad graduation exhibition (2015, in Chinese) is [here](https://mp.weixin.qq.com/s/7ERydW3i3iGsVcMOR13nzQ).
