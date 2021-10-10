@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student at UT Austin, advised by Prof. [Kristen Grauman](https://www.cs.utexas.edu/users/grauman/). 
+I am a Ph.D. student at UT Austin, advised by Prof. [Kristen Grauman](https://www.cs.utexas.edu/users/grauman/) and also work with Prof. [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). 
 I received a M.S. in CS from UCSD, advised by Prof. [Xiaolong Wang](https://xiaolonw.github.io/).
 
 My research interest is building embodied systems that can learn from limited supervision, and can actively interact with the physical environment, with the ability of perception, reasoning and generalization. 
@@ -18,6 +18,8 @@ I am currently working on 3D vision and interactions, including topics on afford
 * [Feb, 2021] One [paper](https://arxiv.org/pdf/2106.05266.pdf) accpected at CVPR 2021.
 
 # Education
+<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/ut_austin.png"/></dt><dt>University of Texas, Austin</dt><dd>Sep. 2019 - </dd><dd>Ph.D. in Computer Science. </dd></dl>
+
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/UCSD.png"/></dt><dt>University of California, San Diego</dt><dd>Sep. 2019 - Mar. 2021</dd><dd>M.S. in Computer Science and Engineering. GPA: 3.94/4.0.</dd><dd>Advisor: Prof. Xiaolong Wang</dd></dl>
 
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/UCLA.jpg"/></dt><dt>University of California, Los Angeles</dt><dd>Jul. 2018 - Sep. 2018</dd><dd>Computer Science, CSST Program. GPA: 4.0/4.0.</dd><dd>Advisor: Prof. Kai-Wei Chang</dd></dl>

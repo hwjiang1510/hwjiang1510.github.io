@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Hanwen Jiang    江翰文"
   avatar           : "bio-photo-0.jpg"
-  bio              : "PhD student @UT Austin, interested in CV/Robotics/Embodied Learning"
+  bio              : "PhD student@UT Austin, interested in CV/Robotics/Embodied Learning"
   cv               : "./files/CV_hw.pdf"
   location         : "2317 Speedway, Austin, U.S."
   employer         :
-  googlescholar    : "https://scholar.google.com.sg/citations?user=HJHSuxUAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=HJHSuxUAAAAJ&hl=en&oi=ao"
   email            : "hwjiang1510@gmail.com"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   github           : "hwjiang1510"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : ""
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/hanwen-jiang/"
   orcid            : #"http://orcid.org/yourorcidurl"
