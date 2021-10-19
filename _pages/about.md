@@ -18,7 +18,7 @@ I am currently working on 3D vision and interactions, including topics on afford
 * [Feb, 2021] One [paper](https://arxiv.org/pdf/2106.05266.pdf) accpected at CVPR 2021.
 
 # Education
-<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/ut_austin.png"/></dt><dt>University of Texas, Austin</dt><dd>Sep. 2019 - </dd><dd>Ph.D. in Computer Science. </dd><dd>Advisor: Prof. Kristen Grauman</dd></dl>
+<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/ut_austin.png"/></dt><dt>University of Texas, Austin</dt><dd>Aug. 2021 - </dd><dd>Ph.D. in Computer Science. </dd><dd>Advisor: Prof. Kristen Grauman</dd></dl>
 
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/UCSD.png"/></dt><dt>University of California, San Diego</dt><dd>Sep. 2019 - Mar. 2021</dd><dd>M.S. in Computer Science and Engineering. GPA: 3.94/4.0.</dd><dd>Advisor: Prof. Xiaolong Wang</dd></dl>
 
