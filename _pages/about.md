@@ -19,11 +19,11 @@ I am currently working on 3D vision and interactions, including topics on afford
 
 
 ## Education
-<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/ut_austin.png"/></dt><dt>University of Texas, Austin</dt><dd>Aug. 2021 - </dd><dd>Ph.D. in Computer Science. </dd></dl>
+<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/ut_austin.png"/></dt><dt>University of Texas, Austin</dt><dd>Aug. 2021 - </dd><dd>Ph.D. in Computer Science</dd></dl>
 
-<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/UCSD.png"/></dt><dt>University of California, San Diego</dt><dd>Sep. 2019 - Mar. 2021</dd><dd>M.S. in Computer Science and Engineering.</dd></dl>
+<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/UCSD.png"/></dt><dt>University of California, San Diego</dt><dd>Sep. 2019 - Mar. 2021</dd><dd>M.S. in Computer Science and Engineering</dd></dl>
 
-<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/whu.png"/></dt><dt>Wuhan University</dt><dd>Sep. 2015 - Jun. 2019</dd><dd>B.E. in Measure & Control Technology.</dd></dl>
+<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/whu.png"/></dt><dt>Wuhan University</dt><dd>Sep. 2015 - Jun. 2019</dd><dd>B.E. in Measure & Control Technology</dd></dl>
 
 
 
