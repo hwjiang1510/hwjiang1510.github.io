@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 (* equal contribution)
-## Publication
 <dl><dt><img align="left" width="240" height="200" hspace="30" src="../images/forge.gif" /></dt><dt> Few-View Object Reconstruction with Unknown Categories and Camera Poses</dt><dd> <strong>Hanwen Jiang</strong>, Zhenyu Jiang, Kristen Grauman, Yuke Zhu</dd><dd>ArXiv, 2022</dd><dd> <span style="color:blue"></span> <a href="https://ut-austin-rpl.github.io/FORGE/">[Project page]</a>, <a href="https://arxiv.org/pdf/2212.04492.pdf">[Paper]</a> </dd></dl><hr />
 
 <dl><dt><img align="left" width="240" height="200" hspace="30" src="../images/dexmv-edit.gif" /></dt><dt> DexMV: Imitation Learning for Dexterous Manipulation from Human Videos</dt><dd> Yuzhe Qin*, Yueh-Hua Wu*, Shaowei Liu, <strong>Hanwen Jiang</strong>, Ruihan Yang, Yang Fu, Xiaolong Wang</dd><dd>European Conference on Computer Vision (<strong>ECCV</strong>) 2022</dd><dd> <span style="color:blue"></span> <a href="https://github.com/yzqin/dexmv-sim">[Code]</a>, <a href="https://yzqin.github.io/dexmv/">[Project page]</a>, <a href="https://arxiv.org/pdf/2108.05877.pdf">[Paper]</a> </dd></dl><hr />
