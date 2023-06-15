@@ -28,11 +28,12 @@ I am currently working on 3D vision and video understanding.
 
 
 ## Intern Experience
-<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/google.png"/></dt><dt>Google Research</dt><dd>2023, Student Researcher</dd></dl>
+<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/google.png"/></dt><dt>Google Research</dt><dd>2023, Student Researcher</dd><dd>Image understanding group</dd></dl>
 
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/wormpex.jpg"/></dt><dt>Wormpex AI Research</dt><dd>Summer 2021, Research Intern</dd><dd>Mentors: Dr. Zhou Ren, Dr. Haoxiang Li, Dr. Gang Hua</dd></dl>
 
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/megvii.jpg"/></dt><dt>Detection Group, MEGVII Face++</dt><dd>Winter 2019, Research Intern</dd><dd>Group Lead: Dr. Gang Yu</dd></dl>
+
 
 
 ## Service
