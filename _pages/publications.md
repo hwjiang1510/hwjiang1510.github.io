@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 (* equal contribution)
-<dl><dt><img align="left" width="240" height="200" hspace="30" src="../images/vqloc.gif" /></dt><dt> Single-Stage Visual Query Localization in Egocentric Videos</dt><dd> <strong>Hanwen Jiang</strong>, Santhosh Ramakrishnan, Kristen Grauman</dd><dd>ArXiv, 2023. Winner of Ego4D VQ2D challenge 2023. </dd><dd> <span style="color:blue"></span> <a href="https://hwjiang1510.github.io/VQLoC/">[Project page]</a>, <a href="https://arxiv.org/pdf/2212.04492.pdf">[Paper]</a> </dd></dl><hr />
+<dl><dt><img align="left" width="240" height="200" hspace="30" src="../images/vqloc.gif" /></dt><dt> Single-Stage Visual Query Localization in Egocentric Videos</dt><dd> <strong>Hanwen Jiang</strong>, Santhosh Ramakrishnan, Kristen Grauman</dd><dd>ArXiv, 2023. <strong>Winner</strong> of Ego4D VQ2D challenge 2023. </dd><dd> <span style="color:blue"></span> <a href="https://hwjiang1510.github.io/VQLoC/">[Project page]</a>, <a href="https://arxiv.org/abs/2306.09324">[Paper]</a> </dd></dl><hr />
 
 <dl><dt><img align="left" width="240" height="200" hspace="30" src="../images/pope.png" /></dt><dt> POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference</dt><dd>Zhiwen Fan, Panwang Pan, et al.</dd><dd>ArXiv, 2023</dd><dd> <span style="color:blue"></span> <a href="https://paulpanwang.github.io/POPE/">[Project page]</a>, <a href="https://arxiv.org/pdf/2305.15727.pdf">[Paper]</a> </dd></dl><hr />
 

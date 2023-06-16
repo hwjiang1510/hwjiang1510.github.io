@@ -14,7 +14,7 @@ I am currently working on 3D vision and video understanding.
 
 
 ## Recent News
-* [May, 2023] [VQLoC](https://hwjiang1510.github.io/VQLoC/) won the Ego4D VQ2D challenge.
+* [Jun, 2023] [VQLoC](https://hwjiang1510.github.io/VQLoC/) won the Ego4D VQ2D challenge.
 * [Jul, 2021] [GraspTTA](https://arxiv.org/pdf/2104.03304.pdf) accpected at ICCV 2021 as oral!
 * [Feb, 2021] [SemiHO](https://arxiv.org/pdf/2106.05266.pdf) accpected at CVPR 2021.
 
@@ -33,7 +33,6 @@ I am currently working on 3D vision and video understanding.
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/wormpex.jpg"/></dt><dt>Wormpex AI Research</dt><dd>Summer 2021, Research Intern</dd><dd>Mentors: Dr. Zhou Ren, Dr. Haoxiang Li, Dr. Gang Hua</dd></dl>
 
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/megvii.jpg"/></dt><dt>Detection Group, MEGVII Face++</dt><dd>Winter 2019, Research Intern</dd><dd>Group Lead: Dr. Gang Yu</dd></dl>
-
 
 
 ## Service
