@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student at UT Austin, where I work with Prof. [Kristen Gruaman](https://www.cs.utexas.edu/users/grauman/) and Prof. [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). I received a M.S. in CS from UCSD in 2021, worked happily with Prof. [Xiaolong Wang](https://xiaolonw.github.io/).
+I am a Ph.D. student at UT Austin, advised by Prof. [Qixing Huang](https://www.cs.utexas.edu/~huangqx/). Prior to this position, I worked with Prof. [Kristen Gruaman](https://www.cs.utexas.edu/users/grauman/) and also collaborated with Prof. [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). I received a M.S. in CS from UCSD in 2021, worked happily with Prof. [Xiaolong Wang](https://xiaolonw.github.io/).
 
 My research interest is building embodied systems that can learn from limited supervision, and can actively interact with the physical environment, with the ability of perception, reasoning and generalization. 
-I am currently working on 3D vision and video understanding.
+I am currently working on 3D vision.
 
 
 ## Recent News
