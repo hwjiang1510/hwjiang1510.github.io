@@ -22,7 +22,7 @@ I am currently working on 3D vision.
 
 
 ## Intern Experience
-<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/google.png"/></dt><dt>Google Research</dt><dd>2023, Student Researcher</dd><dd>Image understanding group</dd></dl>
+<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/google.png"/></dt><dt>Google Research</dt><dd>2023, Student Researcher</dd><dd>Hosts: Arjun Karpur, Dr. Andre Araujo</dd></dl>
 
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/wormpex.jpg"/></dt><dt>Wormpex AI Research</dt><dd>Summer 2021, Research Intern</dd><dd>Mentors: Dr. Zhou Ren, Dr. Haoxiang Li, Dr. Gang Hua</dd></dl>
 
