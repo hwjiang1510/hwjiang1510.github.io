@@ -28,8 +28,9 @@ I am currently working on 3D vision.
 
 
 ## Service
+* Teaching Assistant: [Learning for 3D Humans 2023 spring](https://sites.google.com/utexas.edu/cs395t-spring2024)
 * Teaching Assistant: [Symbolic Programming 2023 spring](https://www.cs.utexas.edu/users/novak/cs378.html)
-* Reviewer: CVPR, ICCV, ECCV, AAAI, etc.
+* Reviewer: CVPR, ICCV, ECCV, AAAI, ICRA, etc.
 
 
 ## Misc.
