@@ -9,8 +9,7 @@ redirect_from:
 ---
 I am a Ph.D. student at UT Austin, advised by Prof. [Qixing Huang](https://www.cs.utexas.edu/~huangqx/) and Prof. [Georgios Pavlakos](https://geopavlakos.github.io/). Prior to this position, I was fourtunate to work with Prof. [Kristen Gruaman](https://www.cs.utexas.edu/users/grauman/) and also collaborate with Prof. [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). I received a M.S. in CS from UCSD in 2021, worked happily with Prof. [Xiaolong Wang](https://xiaolonw.github.io/).
 
-My research interest is building embodied systems that can learn from limited supervision, and can actively interact with the physical environment, with the ability of perception, reasoning and generalization. 
-I am currently working on 3D vision.
+I work on 3D Vision, including topics of reconstruction, pose estimation, learning correspondences and interactions. My goal is producing scalable methods to perceive the 3D world accurately.
 
 
 ## Education
