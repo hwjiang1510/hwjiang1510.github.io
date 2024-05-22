@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 (* equal contribution)
-<dl><dt><img align="left" width="240" height="200" hspace="30" src="../images/omniglue.png" /></dt><dt>OmniGlue: Generalizable Feature Matching with Foundation Model Guidance</dt><dd><strong>Hanwen Jiang</strong>, Arjun Karpur, Bingyi Cao, Qixing Huang, Andre Araujo</dd><dd>Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024.</dd></dl><hr />
+<dl><dt><img align="left" width="240" height="200" hspace="30" src="../images/omniglue.png" /></dt><dt>OmniGlue: Generalizable Feature Matching with Foundation Model Guidance</dt><dd><strong>Hanwen Jiang</strong>, Arjun Karpur, Bingyi Cao, Qixing Huang, Andre Araujo</dd><dd>Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024.</dd><dd> <span style="color:blue"></span> <a href="https://github.com/google-research/omniglue">[Project page]</a>, <a href="https://arxiv.org/abs/2405.12979">[Paper]</a> </dd></dl><hr />
 
 <dl><dt><img align="left" width="240" height="200" hspace="30" src="../images/leap.gif" /></dt><dt> LEAP: Liberate Sparse-view 3D Modeling from Camera Poses</dt><dd> <strong>Hanwen Jiang</strong>, Zhenyu Jiang, Yue Zhao, Qixing Huang</dd><dd>International Conference on Learning Representations (<strong>ICLR</strong>), 2024. </dd><dd> <span style="color:blue"></span> <a href="https://hwjiang1510.github.io/LEAP/">[Project page]</a>, <a href="https://arxiv.org/pdf/2310.01410.pdf">[Paper]</a> </dd></dl><hr />
 
