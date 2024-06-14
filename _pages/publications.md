@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 (* equal contribution)
-<dl><dt><img align="left" width="220" height="200" hspace="30" src="../images/real3d-edit.gif" /></dt><dt>Real3D: Scaling Up Large Reconstruction Models with Real-World Images</dt><dd><strong>Hanwen Jiang</strong>, Qixing Huang, Georgios Pavlakos</dd><dd>ArXiv, 2024.</dd><dd> <span style="color:blue"></span> <a href="https://hwjiang1510.github.io/Real3D/">[Project page]</a>, <a href="https://arxiv.org/abs/2406.08479">[Paper]</a> </dd></dl><hr />
+<dl><dt><img align="left" width="240" height="200" hspace="30" src="../images/real3d-edit.gif" /></dt><dt>Real3D: Scaling Up Large Reconstruction Models with Real-World Images</dt><dd><strong>Hanwen Jiang</strong>, Qixing Huang, Georgios Pavlakos</dd><dd>ArXiv, 2024.</dd><dd> <span style="color:blue"></span> <a href="https://hwjiang1510.github.io/Real3D/">[Project page]</a>, <a href="https://arxiv.org/abs/2406.08479">[Paper]</a> </dd></dl><hr />
 
 <dl><dt><img align="left" width="240" height="200" hspace="30" src="../images/cofie.png" /></dt><dt>CoFie: Learning Compact Neural Surface Representations with Coordinate Fields</dt><dd><strong>Hanwen Jiang</strong>, Haitao Yang, Georgios Pavlakos, Qixing Huang</dd><dd>ArXiv, 2024.</dd><dd> <span style="color:blue"></span> <a href="https://hwjiang1510.github.io/CoFie/">[Project page]</a>, <a href="https://arxiv.org/abs/2406.03417">[Paper]</a> </dd></dl><hr />
 
