@@ -32,7 +32,7 @@ I work on 3D Vision, including topics of reconstruction, pose estimation, learni
 * Teaching Assistant: [Learning for 3D Humans 2024 spring](https://sites.google.com/utexas.edu/cs395t-spring2024)
 * Teaching Assistant: [Elements of Software Design 2023 fall]()
 * Teaching Assistant: [Symbolic Programming 2023 spring](https://www.cs.utexas.edu/users/novak/cs378.html)
-* Reviewer: CVPR, ICCV, ECCV, AAAI, ICRA, TVCG, etc.
+* Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICRA, TVCG, AAAI, etc.
 
 
 ## Misc.
