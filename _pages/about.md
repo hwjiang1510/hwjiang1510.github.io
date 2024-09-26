@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Ph.D. student at UT Austin, advised by Prof. [Qixing Huang](https://www.cs.utexas.edu/~huangqx/) and Prof. [Georgios Pavlakos](https://geopavlakos.github.io/). I received a M.S. in CS from UCSD in 2021, advised by Prof. [Xiaolong Wang](https://xiaolonw.github.io/).
 
-I work on 3D Vision, including topics of reconstruction, pose estimation, learning correspondences and interactions. My goal is producing scalable and generalizable methods for accurate 3D perception.
+I work on 3D Vision, including topics of reconstruction, pose estimation, learning correspondences and interactions. My goal is producing scalable and generalizable methods for accurate world understanding.
 
 
 ## Education
