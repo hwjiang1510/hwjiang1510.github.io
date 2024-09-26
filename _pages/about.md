@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student at UT Austin, advised by Prof. [Qixing Huang](https://www.cs.utexas.edu/~huangqx/) and Prof. [Georgios Pavlakos](https://geopavlakos.github.io/). Prior to this position, I was fourtunate to work with Prof. [Kristen Gruaman](https://www.cs.utexas.edu/users/grauman/) and also collaborate with Prof. [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). I received a M.S. in CS from UCSD in 2021, worked happily with Prof. [Xiaolong Wang](https://xiaolonw.github.io/).
+I am a Ph.D. student at UT Austin, advised by Prof. [Qixing Huang](https://www.cs.utexas.edu/~huangqx/) and Prof. [Georgios Pavlakos](https://geopavlakos.github.io/). I received a M.S. in CS from UCSD in 2021, advised by Prof. [Xiaolong Wang](https://xiaolonw.github.io/).
 
 I work on 3D Vision, including topics of reconstruction, pose estimation, learning correspondences and interactions. My goal is producing scalable and generalizable methods for accurate 3D perception.
 
@@ -32,10 +32,10 @@ I work on 3D Vision, including topics of reconstruction, pose estimation, learni
 * Teaching Assistant: [Learning for 3D Humans 2024 spring](https://sites.google.com/utexas.edu/cs395t-spring2024)
 * Teaching Assistant: [Elements of Software Design 2023 fall]()
 * Teaching Assistant: [Symbolic Programming 2023 spring](https://www.cs.utexas.edu/users/novak/cs378.html)
-* Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICRA, TVCG, AAAI, etc.
+* Reviewer: CVPR, ICCV, ECCV, ICLR, NeurIPS, ICRA, TVCG, 3DV, AAAI, etc.
 
 
 ## Misc.
 I have two lovely cats [Luca and Soda](https://www.instagram.com/meow_luca_soda/).
 I am also an amateur Chinese Calligrapher, my previous undergrad graduation exhibition (2019, in Chinese) is [here](https://mp.weixin.qq.com/s/7ERydW3i3iGsVcMOR13nzQ).
-I love table tennis, with rating ~1700.
+I love table tennis, with rating ~1800.

@@ -1,13 +1,13 @@
 ---
 <!-- layout: archive -->
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
 (* equal contribution)
 <dl><dt><img align="left" width="240" height="200" hspace="30" src="../images/real3d-edit.gif" /></dt><dt>Real3D: Scaling Up Large Reconstruction Models with Real-World Images</dt><dd><strong>Hanwen Jiang</strong>, Qixing Huang, Georgios Pavlakos</dd><dd>ArXiv, 2024.</dd><dd> <span style="color:blue"></span> <a href="https://hwjiang1510.github.io/Real3D/">[Project page]</a>, <a href="https://arxiv.org/abs/2406.08479">[Paper]</a> </dd></dl><hr />
 
-<dl><dt><img align="left" width="240" height="200" hspace="30" src="../images/cofie.png" /></dt><dt>CoFie: Learning Compact Neural Surface Representations with Coordinate Fields</dt><dd><strong>Hanwen Jiang</strong>, Haitao Yang, Georgios Pavlakos, Qixing Huang</dd><dd>ArXiv, 2024.</dd><dd> <span style="color:blue"></span> <a href="https://hwjiang1510.github.io/CoFie/">[Project page]</a>, <a href="https://arxiv.org/abs/2406.03417">[Paper]</a> </dd></dl><hr />
+<dl><dt><img align="left" width="240" height="200" hspace="30" src="../images/cofie.png" /></dt><dt>CoFie: Learning Compact Neural Surface Representations with Coordinate Fields</dt><dd><strong>Hanwen Jiang</strong>, Haitao Yang, Georgios Pavlakos, Qixing Huang</dd><dd>Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>), 2023.</dd><dd> <span style="color:blue"></span> <a href="https://hwjiang1510.github.io/CoFie/">[Project page]</a>, <a href="https://arxiv.org/abs/2406.03417">[Paper]</a> </dd></dl><hr />
 
 <dl><dt><img align="left" width="240" height="200" hspace="30" src="../images/omniglue.png" /></dt><dt>OmniGlue: Generalizable Feature Matching with Foundation Model Guidance</dt><dd><strong>Hanwen Jiang</strong>, Arjun Karpur, Bingyi Cao, Qixing Huang, Andre Araujo</dd><dd>Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024.</dd><dd> <span style="color:blue"></span> <a href="https://hwjiang1510.github.io/OmniGlue/">[Project page]</a>, <a href="https://arxiv.org/abs/2405.12979">[Paper]</a> </dd></dl><hr />
 
@@ -16,8 +16,6 @@ author_profile: true
 <dl><dt><img align="left" width="240" height="200" hspace="30" src="../images/doduo.gif" /></dt><dt>Doduo: Learning Dense Visual Correspondence from Unsupervised Semantic-Aware Flow</dt><dd>Zhenyu Jiang, <strong>Hanwen Jiang</strong>, Yuke Zhu</dd><dd>International Conference on Robotics and Automation (<strong>ICRA</strong>), 2024.</dd><dd> <span style="color:blue"></span> <a href="https://ut-austin-rpl.github.io/Doduo/">[Project page]</a>, <a href="https://arxiv.org/pdf/2309.15110.pdf">[Paper]</a> </dd></dl><hr />
 
 <dl><dt><img align="left" width="240" height="200" hspace="30" src="../images/forge.gif" /></dt><dt> Few-View Object Reconstruction with Unknown Categories and Camera Poses</dt><dd> <strong>Hanwen Jiang</strong>, Zhenyu Jiang, Kristen Grauman, Yuke Zhu</dd><dd>International Conference on 3D Vision (<strong>3DV</strong>), 2024 <strong style="color: red;">(Oral, Best Paper Candidate)</strong></dd><dd> <span style="color:blue"></span> <a href="https://ut-austin-rpl.github.io/FORGE/">[Project page]</a>, <a href="https://arxiv.org/pdf/2212.04492.pdf">[Paper]</a> </dd></dl><hr />
-
-<dl><dt><img align="left" width="240" height="200" hspace="30" src="../images/pope.png" /></dt><dt> POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference</dt><dd>Zhiwen Fan, Panwang Pan, et al.</dd><dd>ArXiv, 2023</dd><dd> <span style="color:blue"></span> <a href="https://paulpanwang.github.io/POPE/">[Project page]</a>, <a href="https://arxiv.org/pdf/2305.15727.pdf">[Paper]</a> </dd></dl><hr />
 
 <dl><dt><img align="left" width="240" height="200" hspace="30" src="../images/vqloc.gif" /></dt><dt> Single-Stage Visual Query Localization in Egocentric Videos</dt><dd> <strong>Hanwen Jiang</strong>, Santhosh Ramakrishnan, Kristen Grauman</dd><dd>Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>), 2023.</dd><dd><strong>Winner</strong> of Ego4D VQ2D challenge 2023. </dd><dd> <span style="color:blue"></span> <a href="https://hwjiang1510.github.io/VQLoC/">[Project page]</a>, <a href="https://arxiv.org/abs/2306.09324">[Paper]</a> </dd></dl><hr />
 
