@@ -11,7 +11,7 @@ I am a Ph.D. student at UT Austin, advised by Prof. [Qixing Huang](https://www.c
 
 I work on 3D Vision, including topics of reconstruction, pose estimation, learning correspondences and interactions. My goal is producing scalable and generalizable methods for accurate world understanding.
 
-<b><span style="color: red;">I am looking for full-time and postdoc oppunities. Drop me an email if your are interested.</span></b>
+<b><span style="color: red;">I am looking for full-time and postdoc opportunities. Drop me an email if your are interested.</span></b>
 
 ## Education
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/ut_austin.png"/></dt><dt>University of Texas, Austin</dt><dd>Aug. 2021 - </dd><dd>Ph.D. in Computer Science</dd></dl>
