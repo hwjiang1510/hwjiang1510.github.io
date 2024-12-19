@@ -5,29 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 (* equal contribution)
-<dl style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <dt>
-        <img
-            style="width: 240; height: auto; margin-right: 20;"
-            src="../images/megasynth.gif"
-            alt="MegaSynth"
-        />
-    </dt>
-    <dd>
-        <dt>MegaSynth: Scaling Up 3D Scene Reconstruction with Synthesized Data</dt>
-        <p>
-            <strong>Hanwen Jiang</strong>, Zexiang Xu, Desai Xie, Ziwen Chen, Haian Jin, Fujun Luan, Zhixin Shu, Kai Zhang, Sai Bi, Xin Sun, Jiuxiang Gu, Qixing Huang, Georgios Pavlakos, Hao Tan
-        </p>
-        <p>ArXiv, 2024.</p>
-        <p>
-            <a href="https://hwjiang1510.github.io/MegaSynth/" style="color: blue;">[Project page]</a>,
-            <a href="https://arxiv.org/abs/2412.14166" style="color: blue;">[Paper]</a>
-        </p>
-    </dd>
-</dl>
-<hr />
-
-
 <dl><dt><img align="left" width="240" height="240" hspace="40" src="../images/megasynth.gif" /></dt><dt>MegaSynth: Scaling Up 3D Scene Reconstruction with Synthesized Data</dt><dd><strong>Hanwen Jiang</strong>, Zexiang Xu, Desai Xie, Ziwen Chen, Haian Jin, Fujun Luan, Zhixin Shu, Kai Zhang, Sai Bi, Xin Sun, Jiuxiang Gu, Qixing Huang, Georgios Pavlakos, Hao Tan</dd><dd>ArXiv, 2024.</dd><dd> <span style="color:blue"></span> <a href="https://hwjiang1510.github.io/MegaSynth/">[Project page]</a>, <a href="https://arxiv.org/abs/2412.14166">[Paper]</a> </dd></dl><hr />
 
 <dl><dt><img align="left" width="240" hspace="30" src="../images/LVSM.gif" /></dt><dt>LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias</dt><dd>Haian Jin, <strong>Hanwen Jiang</strong>, Hao Tan, Kai Zhang, Sai Bi, Tianyuan Zhang, Fujun Luan, Noah Snavely, Zexiang Xu</dd><dd>ArXiv, 2024.</dd><dd> <span style="color:blue"></span> <a href="https://haian-jin.github.io/projects/LVSM/">[Project page]</a>, <a href="https://arxiv.org/abs/2410.17242">[Paper]</a> </dd></dl><hr />
