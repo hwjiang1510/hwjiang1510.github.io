@@ -11,6 +11,7 @@ I am a Ph.D. student at UT Austin, advised by Prof. [Qixing Huang](https://www.c
 
 I work on 3D Vision, including topics of reconstruction, pose estimation, learning correspondences and interactions. My goal is producing scalable and generalizable methods for accurate world understanding.
 
+<b><span style="color: red;">I am looking for full-time and postdoc oppunities. Drop me an email if your are interested.</span></b>
 
 ## Education
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/ut_austin.png"/></dt><dt>University of Texas, Austin</dt><dd>Aug. 2021 - </dd><dd>Ph.D. in Computer Science</dd></dl>
@@ -21,7 +22,7 @@ I work on 3D Vision, including topics of reconstruction, pose estimation, learni
 
 
 ## Intern Experience
-<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/adobe.jpg"/></dt><dt>Adobe Research</dt><dd>2024, Research Intern</dd><dd>Mentor: Hao Tan</dd></dl>
+<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/adobe.jpg"/></dt><dt>Adobe Research</dt><dd>2024-2025, Research Intern</dd><dd>Mentor: Hao Tan</dd></dl>
 
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/google.png"/></dt><dt>Google Research</dt><dd>2023, Student Researcher</dd><dd>Hosts: Arjun Karpur, Andre Araujo</dd></dl>
 
@@ -32,7 +33,7 @@ I work on 3D Vision, including topics of reconstruction, pose estimation, learni
 * Teaching Assistant: [Learning for 3D Humans 2024 spring](https://sites.google.com/utexas.edu/cs395t-spring2024)
 * Teaching Assistant: [Elements of Software Design 2023 fall]()
 * Teaching Assistant: [Symbolic Programming 2023 spring](https://www.cs.utexas.edu/users/novak/cs378.html)
-* Reviewer: CVPR, ICCV, ECCV, ICLR, NeurIPS, ICRA, TVCG, 3DV, AAAI, etc.
+* Reviewer: CVPR, ICCV, ECCV, ICLR, NeurIPS, ICML, ICRA, 3DV, AAAI, TPAMI, TVCG, RA-L, etc.
 
 
 ## Misc.
