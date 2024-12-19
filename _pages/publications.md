@@ -10,7 +10,7 @@ author_profile: true
     <img 
       src="../images/megasynth.gif" 
       alt="MegaSynth" 
-      style="width: 200px; height: auto; margin-right: 30px;"
+      style="width: 240; height: auto; margin-right: 30px;"
     />
   </dt>
   <dt>MegaSynth: Scaling Up 3D Scene Reconstruction with Synthesized Data</dt>
@@ -23,11 +23,11 @@ author_profile: true
 </dl>
 <hr />
 
-<dl><dt><img align="left" width="240" hspace="60" src="../images/LVSM.gif" /></dt><dt>LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias</dt><dd>Haian Jin, <strong>Hanwen Jiang</strong>, Hao Tan, Kai Zhang, Sai Bi, Tianyuan Zhang, Fujun Luan, Noah Snavely, Zexiang Xu</dd><dd>ArXiv, 2024.</dd><dd> <span style="color:blue"></span> <a href="https://haian-jin.github.io/projects/LVSM/">[Project page]</a>, <a href="https://arxiv.org/abs/2410.17242">[Paper]</a> </dd></dl><hr />
+<dl><dt><img align="left" width="240" hspace="30" src="../images/LVSM.gif" /></dt><dt>LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias</dt><dd>Haian Jin, <strong>Hanwen Jiang</strong>, Hao Tan, Kai Zhang, Sai Bi, Tianyuan Zhang, Fujun Luan, Noah Snavely, Zexiang Xu</dd><dd>ArXiv, 2024.</dd><dd> <span style="color:blue"></span> <a href="https://haian-jin.github.io/projects/LVSM/">[Project page]</a>, <a href="https://arxiv.org/abs/2410.17242">[Paper]</a> </dd></dl><hr />
 
 <dl><dt><img align="left" width="240" height="200" hspace="30" src="../images/real3d-edit.gif" /></dt><dt>Real3D: Scaling Up Large Reconstruction Models with Real-World Images</dt><dd><strong>Hanwen Jiang</strong>, Qixing Huang, Georgios Pavlakos</dd><dd>ArXiv, 2024.</dd><dd> <span style="color:blue"></span> <a href="https://hwjiang1510.github.io/Real3D/">[Project page]</a>, <a href="https://arxiv.org/abs/2406.08479">[Paper]</a> </dd></dl><hr />
 
-<dl><dt><img align="left" width="240" height="200" hspace="40" src="../images/Atlas_Gaussians_2024.png" /></dt><dt>Atlas Gaussians Diffusion for 3D Generation</dt><dd>Haitao Yang, Yuan Dong, <strong>Hanwen Jiang</strong>, Dejia Xu, Georgios Pavlakos, Qixing Huang</dd><dd>ArXiv, 2024.</dd><dd> <span style="color:blue"></span> <a href="https://arxiv.org/abs/2408.13055">[Paper]</a> </dd></dl><hr/>
+<dl><dt><img align="left" width="240" height="200" hspace="30" src="../images/Atlas_Gaussians_2024.png" /></dt><dt>Atlas Gaussians Diffusion for 3D Generation</dt><dd>Haitao Yang, Yuan Dong, <strong>Hanwen Jiang</strong>, Dejia Xu, Georgios Pavlakos, Qixing Huang</dd><dd>ArXiv, 2024.</dd><dd> <span style="color:blue"></span> <a href="https://arxiv.org/abs/2408.13055">[Paper]</a> </dd></dl><hr/>
 
 <dl><dt><img align="left" width="240" height="200" hspace="30" src="../images/cofie.png" /></dt><dt>CoFie: Learning Compact Neural Surface Representations with Coordinate Fields</dt><dd><strong>Hanwen Jiang</strong>, Haitao Yang, Georgios Pavlakos, Qixing Huang</dd><dd>Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024.</dd><dd> <span style="color:blue"></span> <a href="https://hwjiang1510.github.io/CoFie/">[Project page]</a>, <a href="https://arxiv.org/abs/2406.03417">[Paper]</a> </dd></dl><hr />
 
