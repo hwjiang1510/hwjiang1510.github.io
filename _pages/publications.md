@@ -8,13 +8,13 @@ author_profile: true
 <dl style="display: flex; align-items: flex-start; margin-bottom: 20px;">
     <dt>
         <img
-            style="width: 240px; height: auto; margin-right: 20px;"
+            style="width: 240; height: auto; margin-right: 20;"
             src="../images/megasynth.gif"
             alt="MegaSynth"
         />
     </dt>
     <dd>
-        <h3 style="margin: 0;">MegaSynth: Scaling Up 3D Scene Reconstruction with Synthesized Data</h3>
+        <dt>MegaSynth: Scaling Up 3D Scene Reconstruction with Synthesized Data</dt>
         <p>
             <strong>Hanwen Jiang</strong>, Zexiang Xu, Desai Xie, Ziwen Chen, Haian Jin, Fujun Luan, Zhixin Shu, Kai Zhang, Sai Bi, Xin Sun, Jiuxiang Gu, Qixing Huang, Georgios Pavlakos, Hao Tan
         </p>
