@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hanwen Jiang"
 title_separator          : "-"
 name                     : &name "Hanwen Jiang"
-description              : &description "M.S. in CSE @ UCSD"
+description              : &description "PhD student @ UT Austin"
 url                      : https://hwjiang1510.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hwjiang1510/hwjiang1510.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hanwen Jiang    江翰文"
   avatar           : "bio-photo-2.jpg"
-  bio              : "PhD student@UT Austin, interested in Vision/Embodied Learning"
-  cv               : "./files/CV_hw.pdf"
+  bio              : "PhD student @ UT Austin, working on 3D Vision"
+  cv               : "./files/hanwen_cv.pdf"
   location         : "2317 Speedway, Austin, U.S."
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=HJHSuxUAAAAJ&hl=en&oi=ao"
