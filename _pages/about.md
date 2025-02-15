@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Ph.D. student at UT Austin, advised by Prof. [Qixing Huang](https://www.cs.utexas.edu/~huangqx/) and Prof. [Georgios Pavlakos](https://geopavlakos.github.io/). I received a M.S. in CS from UCSD in 2021, advised by Prof. [Xiaolong Wang](https://xiaolonw.github.io/).
 
-I work on 3D Vision, including topics of reconstruction, generation, pose estimation, learning correspondences and interactions. My goal is producing scalable and generalizable methods for accurate physical world understanding.
+I work on 3D Vision, including topics of reconstruction, generation, pose estimation, learning correspondences and modeling interactions. My goal is producing scalable and generalizable methods for accurate physical world understanding.
 
 
 ## Education
@@ -21,11 +21,11 @@ I work on 3D Vision, including topics of reconstruction, generation, pose estima
 
 
 ## Intern Experience
-<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/adobe.jpg"/></dt><dt>Adobe Research</dt><dd>2024-2025, Research Intern</dd><dd>Mentor: Hao Tan</dd></dl>
+<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/adobe.jpg"/></dt><dt>Adobe Research</dt><dd>2024-2025, Research Intern</dd><dd>Hosts: Hao Tan, Kalyan Sunkavalli</dd></dl>
 
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/google.png"/></dt><dt>Google Research</dt><dd>2023, Student Researcher</dd><dd>Hosts: Arjun Karpur, Andre Araujo</dd></dl>
 
-<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/wormpex.jpg"/></dt><dt>Wormpex AI Research</dt><dd>Summer 2021, Research Intern</dd><dd>Mentors: Zhou Ren, Haoxiang Li, Gang Hua</dd></dl>
+<dl><dt><img align="left" width="80" height="80" hspace="10" src="./images/wormpex.jpg"/></dt><dt>Wormpex AI Research</dt><dd>Summer 2021, Research Intern</dd><dd>Hosts: Zhou Ren, Haoxiang Li, Gang Hua</dd></dl>
 
 
 ## Service
