@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Ph.D. student at UT Austin, advised by Prof. [Qixing Huang](https://www.cs.utexas.edu/~huangqx/) and Prof. [Georgios Pavlakos](https://geopavlakos.github.io/). I received a M.S. in CS from UCSD in 2021, advised by Prof. [Xiaolong Wang](https://xiaolonw.github.io/).
 
-I work on 3D Vision, including topics of reconstruction, generation, pose estimation, learning correspondences and modeling interactions. My goal is producing scalable and generalizable methods for accurate physical world understanding.
+I am currently working on 3D Vision. My goal is building scalable learning paradigms and models for spatially grounded intelligence.
 
 
 ## Education
@@ -29,11 +29,8 @@ I work on 3D Vision, including topics of reconstruction, generation, pose estima
 
 
 ## Service
-* Teaching Assistant: [Learning for 3D Humans 2024 spring](https://sites.google.com/utexas.edu/cs395t-spring2024)
-* Teaching Assistant: [Elements of Software Design 2023 fall]()
-* Teaching Assistant: [Symbolic Programming 2023 spring](https://www.cs.utexas.edu/users/novak/cs378.html)
 * Reviewer: CVPR, ICCV, ECCV, ICLR, NeurIPS, ICML, ICRA, 3DV, AAAI, TPAMI, TVCG, RA-L, etc.
-* Co-organizer: CVPR 2025 workshop on Enforcing Inductive Bias in 3D Generation.
+* Co-organizer: [CVPR 2025 workshop on Enforcing Inductive Bias in 3D Generation](https://ind3dworkshop.github.io/cvpr2025/).
 
 
 ## Misc.
